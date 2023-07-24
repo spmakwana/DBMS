@@ -25,26 +25,42 @@ Insert below records in the table student created in experiment 1.1
 
 ## Experiment 1.3
 
-- display all the records from student table
+1. display all the records from student table
 
-- display enrolment number, student name and city of all the students.
+2. display enrolment number, student name and city of all the students.
 
-- display enrolment number, student name and class of all the students
+3. display enrolment number, student name and class of all the students
 
-- display data of student whose enrolment no is 1003
+4. display data of student whose enrolment no is 1003
 
-- display data of student whose name is Nakul
+5. display data of student whose name is Nakul
 
-- display mobile number of student whose name is Bhim
+6. display mobile number of student whose name is Bhim
 
-- display current semester of student whose enrollment number is1005
+7. display current semester of student whose enrollment number is1005
 
-- display students name of all the students who are living in Jamnagar
+8. display students name of all the students who are living in Jamnagar
 
-- display all the students of DC1 class
+9. display all the students of DC1 class
 
-- Display enrolment no, student name and mobile number of all the student of class DC2 and who are studying in 3rd semester.
+10. Display enrolment no, student name and mobile number of all the student of class DC2 and who are studying in 3rd semester.
 
-- Display student name along with city of students of semester 1
+11. Display student name along with city of students of semester 1
 
-- Display the details of student whose mobile number is 9998881236
+12. Display the details of student whose mobile number is 9998881236
+
+## Experiment 1.4
+
+1. Update current semester to 2 of student whose enrollment no is 1004.
+
+2. Update mobile number of Bhim to 9998881239
+
+3. Update city of Nakul to Ayodhya
+
+4. Change class of Arjun to DC3
+
+5. Increment current semester of all student by 1.
+
+6. Update city of Yudhisthir to Dwarka and mobile no to 9998881245
+
+7. Update class to DC5 of all student who are studing in semester 4
